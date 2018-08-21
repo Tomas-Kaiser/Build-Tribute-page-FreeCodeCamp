@@ -13,6 +13,10 @@ h1 {
    text-align: center;
 }
 
+#title {
+   text-align: center;
+}
+
 figure {
    background-color: white;
    text-align: center;
